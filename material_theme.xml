@@ -1,7 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
+    <option name="version" value="2.8.0" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="isContrastMode" value="true" />
     <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="ff7042" />
+    <option name="userId" value="-9c6e8cb:16546bfe7f9:-7fff" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
