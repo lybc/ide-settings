@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="trs" value="try {&#10;    \DB::beginTransaction();&#10;    $END$&#10;    \DB::commit;&#10;} catch (\Exception $e) {&#10;     \DB::rollback();&#10;}" description="translate statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
