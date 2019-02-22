@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>321</Count>
+          <Count>323</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -54,7 +54,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -102,7 +102,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>73</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -110,7 +110,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>249</Count>
+          <Count>250</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -118,7 +118,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>423</Count>
+          <Count>432</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'artisan'">
@@ -142,7 +142,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'phpcs'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'server.php'">
@@ -174,7 +174,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
     </option>
