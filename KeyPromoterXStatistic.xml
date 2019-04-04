@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>312</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -182,7 +182,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>516</Count>
+          <Count>517</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
