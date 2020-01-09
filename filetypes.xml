@@ -10,6 +10,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="alihost" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="had" type="PLAIN_TEXT" />
       <mapping ext="itm" type="PLAIN_TEXT" />
