@@ -15,6 +15,7 @@
       <mapping ext="had" type="PLAIN_TEXT" />
       <mapping ext="itm" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
+      <mapping pattern="k8s-pvc-oss" type="YAML" />
     </extensionMap>
   </component>
 </application>
